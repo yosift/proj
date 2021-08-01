@@ -1,0 +1,36 @@
+body{
+    background-color: black;
+}
+.nav-div{
+    background-color: darkgray;
+    padding: 25px;
+}
+a{
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    color: white;
+    margin: 65px;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: rgb(71, 8, 8);
+    color: white;
+    font-weight:bolder ;    
+    display: block;
+  }
+  .container{
+    display: flex;
+    justify-content: center;
+      flex-direction: column;
+  }
+  .item{
+      margin: 25px;
+  }
+  .item img{
+      margin: 25px;
+  }
+  input{
+      margin: 65px;
+  }
